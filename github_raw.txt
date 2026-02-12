@@ -1,0 +1,13 @@
+锁定规则：后缀['.wav']，必含字符
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/A Little Bit Bad(Instrumental).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/A Little Bit Bad(Vocals).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/ARTIST BLOCK(Instrumental).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/ARTIST BLOCK(Vocals).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/I Lost My Mind(Instrumental).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/I Lost My Mind(Vocals).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/Jax Toy(Instrumental).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/Jax Toy(Vocals).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/Kill Me!(Instrumental).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/Kill Me!(Vocals).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/Knock Knock Who Cares(Instrumental).wav
+https://raw.githubusercontent.com/qyxay/The-Songs-of-TADC/main/Knock Knock Who Cares(Vocals).wav
