@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Songs of TADC
+---
+
 # The-Songs-of-TADC  
 TADC（The Amazing Digital Circus）相关歌曲的音频资源。
 有伴奏（Instrumental）和人声（Vocals）文件。
